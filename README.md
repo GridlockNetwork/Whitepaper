@@ -2,9 +2,9 @@
 
 ## A secure and private cryptocurrency storage platform
 
-Author: Derek Rodriguez <br> Contributors:  Daniel Marzec, Franklin Willemen, Laura Weindorf
+Author: Derek Rodriguez <br> Contributors:  Artur Frenszek-Iwicki, Shane Moloney, Daniel Marzec, Chris Smith, Franklin Willemen, Laura Weindorf
 
-[devs@gridlock.network](mailto:devs@gridlock.net) <br>v1.4 August 2020
+[devs@gridlock.network](mailto:devs@gridlock.net) <br>v1.5 October 2020
 
 ### Abstract 
 
