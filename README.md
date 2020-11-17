@@ -4,7 +4,8 @@
 
 Author: Derek Rodriguez <br> Contributors:  Artur Frenszek-Iwicki, Shane Moloney, Daniel Marzec, Chris Smith, Franklin Willemen, Laura Weindorf
 
-[devs@gridlock.network](mailto:devs@gridlock.net) <br>v1.5 October 2020
+Learn more at on the [website](https://gridlock.network)<br>
+Questions? [devs@gridlock.network](mailto:devs@gridlock.net) <br>v1.6 November 2020
 
 ### Abstract 
 
