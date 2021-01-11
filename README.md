@@ -5,7 +5,7 @@
 Author: Derek Rodriguez <br> Contributors:  Artur Frenszek-Iwicki, Shane Moloney, Daniel Marzec, Chris Smith, Franklin Willemen, Laura Weindorf
 
 Learn more at on the [website](https://gridlock.network)<br>
-Questions? [devs@gridlock.network](mailto:devs@gridlock.net) <br>v1.6 November 2020
+Questions? [devs@gridlock.network](mailto:devs@gridlock.net) <br>v1.7 January 2021
 
 ### Abstract 
 
